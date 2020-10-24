@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="shooping">Shooping</string>
+    <string name="bayar">Bayar</string>
+    <string name="estimasi_biaya">Estimasi Biaya</string>
+    <string name="k">K</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="cari_nama_pembeli">Cari Nama Pembeli</string>
+    <string name="bersihkan">Bersihkan</string>
+    <string name="silahkan_pilih_menu">Silahkan Pilih Menu Untuk Tambah Transaksi!</string>
+    <string name="masukan_jumlah_pembelian">jumlah pembelian</string>
+    <string name="nama_pembeli">nama pembeli</string>
+    <string name="harga_hewan">Harga Hewan</string>
+    <string name="nama_hewan">Nama Hewan</string>
+    <string name="todo">TODO</string>
+</resources>
